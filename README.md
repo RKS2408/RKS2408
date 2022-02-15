@@ -1,5 +1,5 @@
-- 👋 Hi, I’m RKS2, an NBA fan & Geometry Dash player
-- 💕 I enjoy coding (Python & SQL)
+- Interests: Basketball, Geometry Dash
+- Languages: Python
 
 <!---
 RKS2408/RKS2408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
